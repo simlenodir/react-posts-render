@@ -1,0 +1,9 @@
+.header {
+    background-color: rgb(168, 183, 209);
+}
+
+.header_link {
+    margin-left: 35px;
+    text-decoration: none;
+    cursor: pointer;
+}

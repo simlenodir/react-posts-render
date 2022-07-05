@@ -1,0 +1,13 @@
+.footer {
+    background-color: rgb(168, 183, 209);
+}
+
+.footer_text {
+    padding-top: 10px;
+
+}
+
+.footer_link {
+    text-decoration: none;
+    cursor: pointer;
+}

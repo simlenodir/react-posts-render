@@ -1,0 +1,15 @@
+.status {
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(235, 80, 80, 0.7);
+}
+
+.message {
+    font-size: 70px;
+    /* display: flex; */
+    /* justify-content: center; */
+    align-items: center;
+    color: rgba(180, 89, 89, 0.7);
+}
